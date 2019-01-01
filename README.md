@@ -1,2 +1,2 @@
 # hello-world
-hello world rep
+learning to work with it
